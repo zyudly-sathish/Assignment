@@ -90,7 +90,7 @@ def main():
 		    		tempFile.write( line.replace( textToSearch, textToReplace ) )
 			tempFile.close()
 		j = j + 1
-		print(j)
+		
 
 
 if __name__ == "__main__":
