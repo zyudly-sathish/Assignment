@@ -14,7 +14,7 @@ indir = '/home/sathisha/pythonexamples/'
 
 def main():
 	#number of times to be iterated
-	i = 1000
+	i = 108164
     	j = 0
     	while (j < i):
 		
